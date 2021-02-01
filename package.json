@@ -1,0 +1,19 @@
+{
+  "name": "mqtt-socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mqtt_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mqtt": "^4.2.6",
+    "net": "^1.0.2",
+    "socket.io": "^3.1.0",
+    "sys": "0.0.1"
+  }
+}
